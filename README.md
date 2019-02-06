@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/teamtact/https://github.com/teamtact/microservices-rest-accounts.svg)](http://hits.dwyl.io/teamtact/https://github.com/teamtact/microservices-rest-accounts)
+
 # microservices-rest-accounts
 Microservices REST Accounts
 
